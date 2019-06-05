@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.ashwin.spring.boot.Movie_Information_Service.MovieInfo
+ rmationServiceApplication
+
